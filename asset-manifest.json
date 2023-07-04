@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LandingPageNike/static/css/main.fedc1cd2.css",
+    "main.js": "/LandingPageNike/static/js/main.6186b166.js",
+    "static/js/787.66b477fd.chunk.js": "/LandingPageNike/static/js/787.66b477fd.chunk.js",
+    "static/media/shoe_image.png": "/LandingPageNike/static/media/shoe_image.f5104002b49035958c5f.png",
+    "index.html": "/LandingPageNike/index.html",
+    "main.fedc1cd2.css.map": "/LandingPageNike/static/css/main.fedc1cd2.css.map",
+    "main.6186b166.js.map": "/LandingPageNike/static/js/main.6186b166.js.map",
+    "787.66b477fd.chunk.js.map": "/LandingPageNike/static/js/787.66b477fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedc1cd2.css",
+    "static/js/main.6186b166.js"
+  ]
+}
